@@ -1,0 +1,67 @@
+{
+  "id": "greetings",
+  "version": 1,
+  "category": "Greetings",
+  "subcategories": [
+    {
+      "id": 1,
+      "name": "Basic Greetings",
+      "items": [
+        {
+          "id": 1,
+          "translations": {
+            "en": "Hello",
+            "vi": "Xin chào",
+            "my": "မင်္ဂလာပါ"
+          }
+        },
+        {
+          "id": 2,
+          "translations": {
+            "en": "Goodbye",
+            "vi": "Tạm biệt",
+            "my": "သွားတော့မယ်"
+          }
+        },
+        {
+          "id": 3,
+          "translations": {
+            "en": "Thank you",
+            "vi": "Cảm ơn",
+            "my": "ကျေးဇူးတင်ပါတယ်"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Introductions",
+      "items": [
+        {
+          "id": 4,
+          "translations": {
+            "en": "My name is...",
+            "vi": "Tên tôi là...",
+            "my": "ကျွန်တော့်နာမည်က..."
+          }
+        },
+        {
+          "id": 5,
+          "translations": {
+            "en": "Nice to meet you",
+            "vi": "Rất vui được gặp bạn",
+            "my": "တွေ့ရတာ ဝမ်းသာပါတယ်"
+          }
+        },
+        {
+          "id": 6,
+          "translations": {
+            "en": "How are you?",
+            "vi": "Bạn khỏe không?",
+            "my": "နေကောင်းပါသလား?"
+          }
+        }
+      ]
+    }
+  ]
+}

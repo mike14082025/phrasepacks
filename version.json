@@ -1,0 +1,41 @@
+{
+  "db_version": 1,
+  "last_updated": "2024-01-15T10:00:00Z",
+  "packs": [
+    {
+      "id": "restaurant",
+      "name": "Restaurant",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/mike14082025/phrasepacks/main/restaurant.json",
+      "description": "Essential restaurant phrases and vocabulary"
+    },
+    {
+      "id": "shopping",
+      "name": "Shopping",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/mike14082025/phrasepacks/main/shopping.json",
+      "description": "Shopping and bargaining phrases"
+    },
+    {
+      "id": "transport",
+      "name": "Transport",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/mike14082025/phrasepacks/main/transport.json",
+      "description": "Transportation and directions"
+    },
+    {
+      "id": "emergency",
+      "name": "Emergency",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/mike14082025/phrasepacks/main/emergency.json",
+      "description": "Emergency and medical phrases"
+    },
+    {
+      "id": "greetings",
+      "name": "Greetings",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/mike14082025/phrasepacks/main/greetings.json",
+      "description": "Basic greetings and introductions"
+    }
+  ]
+}

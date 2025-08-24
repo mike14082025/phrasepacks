@@ -1,0 +1,67 @@
+{
+  "id": "transport",
+  "version": 1,
+  "category": "Transport",
+  "subcategories": [
+    {
+      "id": 1,
+      "name": "Public Transport",
+      "items": [
+        {
+          "id": 1,
+          "translations": {
+            "en": "Bus",
+            "vi": "Xe buýt",
+            "my": "ဘတ်စကား"
+          }
+        },
+        {
+          "id": 2,
+          "translations": {
+            "en": "Train",
+            "vi": "Tàu hỏa",
+            "my": "ရထား"
+          }
+        },
+        {
+          "id": 3,
+          "translations": {
+            "en": "Taxi",
+            "vi": "Taxi",
+            "my": "တက္ကစီ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Directions",
+      "items": [
+        {
+          "id": 4,
+          "translations": {
+            "en": "Turn left",
+            "vi": "Rẽ trái",
+            "my": "ဘယ်ဘက်ကွေ့ပါ"
+          }
+        },
+        {
+          "id": 5,
+          "translations": {
+            "en": "Turn right",
+            "vi": "Rẽ phải",
+            "my": "ညာဘက်ကွေ့ပါ"
+          }
+        },
+        {
+          "id": 6,
+          "translations": {
+            "en": "Go straight",
+            "vi": "Đi thẳng",
+            "my": "ဖြောင့်ဖြောင့်သွားပါ"
+          }
+        }
+      ]
+    }
+  ]
+}

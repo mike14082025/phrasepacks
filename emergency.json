@@ -1,0 +1,67 @@
+{
+  "id": "emergency",
+  "version": 1,
+  "category": "Emergency",
+  "subcategories": [
+    {
+      "id": 1,
+      "name": "Medical",
+      "items": [
+        {
+          "id": 1,
+          "translations": {
+            "en": "Hospital",
+            "vi": "Bệnh viện",
+            "my": "ဆေးရုံ"
+          }
+        },
+        {
+          "id": 2,
+          "translations": {
+            "en": "Doctor",
+            "vi": "Bác sĩ",
+            "my": "ဆရာဝန်"
+          }
+        },
+        {
+          "id": 3,
+          "translations": {
+            "en": "Medicine",
+            "vi": "Thuốc",
+            "my": "ဆေး"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Police",
+      "items": [
+        {
+          "id": 4,
+          "translations": {
+            "en": "Police",
+            "vi": "Cảnh sát",
+            "my": "ရဲ"
+          }
+        },
+        {
+          "id": 5,
+          "translations": {
+            "en": "Help me",
+            "vi": "Giúp tôi",
+            "my": "ကျွန်တော်ကို ကူညီပါ"
+          }
+        },
+        {
+          "id": 6,
+          "translations": {
+            "en": "Danger",
+            "vi": "Nguy hiểm",
+            "my": "အန္တရာယ်"
+          }
+        }
+      ]
+    }
+  ]
+}

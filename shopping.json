@@ -1,0 +1,97 @@
+{
+  "id": "shopping",
+  "version": 1,
+  "category": "Shopping",
+  "subcategories": [
+    {
+      "id": 1,
+      "name": "Clothing",
+      "items": [
+        {
+          "id": 1,
+          "translations": {
+            "en": "Shirt",
+            "vi": "Áo sơ mi",
+            "my": "အင်္ကျီ"
+          }
+        },
+        {
+          "id": 2,
+          "translations": {
+            "en": "Pants",
+            "vi": "Quần",
+            "my": "ဘောင်းဘီ"
+          }
+        },
+        {
+          "id": 3,
+          "translations": {
+            "en": "Shoes",
+            "vi": "Giày",
+            "my": "ဖိနပ်"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Electronics",
+      "items": [
+        {
+          "id": 4,
+          "translations": {
+            "en": "Phone",
+            "vi": "Điện thoại",
+            "my": "ဖုန်း"
+          }
+        },
+        {
+          "id": 5,
+          "translations": {
+            "en": "Laptop",
+            "vi": "Máy tính xách tay",
+            "my": "လက်တော့ပ်"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Common Phrases",
+      "items": [
+        {
+          "id": 6,
+          "translations": {
+            "en": "How much?",
+            "vi": "Bao nhiêu?",
+            "my": "ဘယ်လောက်လဲ?"
+          }
+        },
+        {
+          "id": 7,
+          "translations": {
+            "en": "Too expensive",
+            "vi": "Đắt quá",
+            "my": "စျေးကြီးလွန်းတယ်"
+          }
+        },
+        {
+          "id": 8,
+          "translations": {
+            "en": "Discount",
+            "vi": "Giảm giá",
+            "my": "လျှော့စျေး"
+          }
+        },
+        {
+          "id": 9,
+          "translations": {
+            "en": "Can I try it on?",
+            "vi": "Tôi có thể thử được không?",
+            "my": "ငါကြိုးကြည့်လို့ရလား?"
+          }
+        }
+      ]
+    }
+  ]
+}

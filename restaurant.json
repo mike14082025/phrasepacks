@@ -1,0 +1,105 @@
+{
+  "id": "restaurant",
+  "version": 1,
+  "category": "Restaurant",
+  "subcategories": [
+    {
+      "id": 1,
+      "name": "Drinks",
+      "items": [
+        {
+          "id": 1,
+          "translations": {
+            "en": "Soft drink",
+            "vi": "Nước ngọt",
+            "my": "အသီးရည်"
+          }
+        },
+        {
+          "id": 2,
+          "translations": {
+            "en": "Coffee",
+            "vi": "Cà phê",
+            "my": "ကော်ဖီ"
+          }
+        },
+        {
+          "id": 3,
+          "translations": {
+            "en": "Tea",
+            "vi": "Trà",
+            "my": "လက်ဖက်ရည်"
+          }
+        },
+        {
+          "id": 4,
+          "translations": {
+            "en": "Water",
+            "vi": "Nước",
+            "my": "ရေ"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Food",
+      "items": [
+        {
+          "id": 5,
+          "translations": {
+            "en": "Rice",
+            "vi": "Cơm",
+            "my": "ထမင်း"
+          }
+        },
+        {
+          "id": 6,
+          "translations": {
+            "en": "Noodles",
+            "vi": "Mì",
+            "my": "ခေါက်ဆွဲ"
+          }
+        },
+        {
+          "id": 7,
+          "translations": {
+            "en": "Pho",
+            "vi": "Phở",
+            "my": "ဖိုး"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Common Phrases",
+      "items": [
+        {
+          "id": 8,
+          "translations": {
+            "en": "Menu",
+            "vi": "Thực đơn",
+            "my": "အစားအစာစာရင်း"
+          }
+        },
+        {
+          "id": 9,
+          "translations": {
+            "en": "Bill",
+            "vi": "Hóa đơn",
+            "my": "ငွေတောင်းခံလွှာ"
+          }
+        },
+        {
+          "id": 10,
+          "translations": {
+            "en": "Delicious",
+            "vi": "Ngon",
+            "my": "အရသာရှိတယ်"
+          }
+        }
+      ]
+    }
+  ]
+}
