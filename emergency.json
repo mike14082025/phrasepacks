@@ -8,7 +8,7 @@
       "name": "Medical",
       "items": [
         {
-          "id": 1,
+          "id": 4011,
           "translations": {
             "en": "Hospital",
             "vi": "Bệnh viện",
@@ -16,7 +16,7 @@
           }
         },
         {
-          "id": 2,
+          "id": 4012,
           "translations": {
             "en": "Doctor",
             "vi": "Bác sĩ",
@@ -24,7 +24,7 @@
           }
         },
         {
-          "id": 3,
+          "id": 4013,
           "translations": {
             "en": "Medicine",
             "vi": "Thuốc",
@@ -38,7 +38,7 @@
       "name": "Police",
       "items": [
         {
-          "id": 4,
+          "id": 4014,
           "translations": {
             "en": "Police",
             "vi": "Cảnh sát",
@@ -46,7 +46,7 @@
           }
         },
         {
-          "id": 5,
+          "id": 4015,
           "translations": {
             "en": "Help me",
             "vi": "Giúp tôi",
@@ -54,7 +54,7 @@
           }
         },
         {
-          "id": 6,
+          "id": 4016,
           "translations": {
             "en": "Danger",
             "vi": "Nguy hiểm",
@@ -65,4 +65,5 @@
     }
   ]
 }
+
 
