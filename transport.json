@@ -8,7 +8,7 @@
       "name": "Public Transport",
       "items": [
         {
-          "id": 1,
+          "id": 3011,
           "translations": {
             "en": "Bus",
             "vi": "Xe buýt",
@@ -16,7 +16,7 @@
           }
         },
         {
-          "id": 2,
+          "id": 3012,
           "translations": {
             "en": "Train",
             "vi": "Tàu hỏa",
@@ -24,7 +24,7 @@
           }
         },
         {
-          "id": 3,
+          "id": 3013,
           "translations": {
             "en": "Taxi",
             "vi": "Taxi",
@@ -38,7 +38,7 @@
       "name": "Directions",
       "items": [
         {
-          "id": 4,
+          "id": 3024,
           "translations": {
             "en": "Turn left",
             "vi": "Rẽ trái",
@@ -46,7 +46,7 @@
           }
         },
         {
-          "id": 5,
+          "id": 3025,
           "translations": {
             "en": "Turn right",
             "vi": "Rẽ phải",
@@ -54,7 +54,7 @@
           }
         },
         {
-          "id": 6,
+          "id": 3026,
           "translations": {
             "en": "Go straight",
             "vi": "Đi thẳng",
@@ -65,4 +65,5 @@
     }
   ]
 }
+
 
