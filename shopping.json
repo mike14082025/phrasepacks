@@ -8,7 +8,7 @@
       "name": "Clothing",
       "items": [
         {
-          "id": 1,
+          "id": 2011,
           "translations": {
             "en": "Shirt",
             "vi": "Áo sơ mi",
@@ -16,7 +16,7 @@
           }
         },
         {
-          "id": 2,
+          "id": 2012,
           "translations": {
             "en": "Pants",
             "vi": "Quần",
@@ -24,7 +24,7 @@
           }
         },
         {
-          "id": 3,
+          "id": 2013,
           "translations": {
             "en": "Shoes",
             "vi": "Giày",
@@ -38,7 +38,7 @@
       "name": "Electronics",
       "items": [
         {
-          "id": 4,
+          "id": 2024,
           "translations": {
             "en": "Phone",
             "vi": "Điện thoại",
@@ -46,7 +46,7 @@
           }
         },
         {
-          "id": 5,
+          "id": 2025,
           "translations": {
             "en": "Laptop",
             "vi": "Máy tính xách tay",
@@ -60,7 +60,7 @@
       "name": "Common Phrases",
       "items": [
         {
-          "id": 6,
+          "id": 2026,
           "translations": {
             "en": "How much?",
             "vi": "Bao nhiêu?",
@@ -68,7 +68,7 @@
           }
         },
         {
-          "id": 7,
+          "id": 2027,
           "translations": {
             "en": "Too expensive",
             "vi": "Đắt quá",
@@ -76,7 +76,7 @@
           }
         },
         {
-          "id": 8,
+          "id": 2028,
           "translations": {
             "en": "Discount",
             "vi": "Giảm giá",
@@ -84,7 +84,7 @@
           }
         },
         {
-          "id": 9,
+          "id": 2029,
           "translations": {
             "en": "Can I try it on?",
             "vi": "Tôi có thể thử được không?",
@@ -95,4 +95,5 @@
     }
   ]
 }
+
 
