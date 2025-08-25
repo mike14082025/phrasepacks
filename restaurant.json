@@ -8,7 +8,7 @@
       "name": "Drinks",
       "items": [
         {
-          "id": 1,
+          "id": 1011,
           "translations": {
             "en": "Soft drink",
             "vi": "Nước ngọt",
@@ -16,7 +16,7 @@
           }
         },
         {
-          "id": 2,
+          "id": 1012,
           "translations": {
             "en": "Coffee",
             "vi": "Cà phê",
@@ -24,7 +24,7 @@
           }
         },
         {
-          "id": 3,
+          "id": 1013,
           "translations": {
             "en": "Tea",
             "vi": "Trà",
@@ -32,7 +32,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 1014,
           "translations": {
             "en": "Water",
             "vi": "Nước",
@@ -46,7 +46,7 @@
       "name": "Food",
       "items": [
         {
-          "id": 5,
+          "id": 1025,
           "translations": {
             "en": "Rice",
             "vi": "Cơm",
@@ -54,7 +54,7 @@
           }
         },
         {
-          "id": 6,
+          "id": 1026,
           "translations": {
             "en": "Noodles",
             "vi": "Mì",
@@ -62,7 +62,7 @@
           }
         },
         {
-          "id": 7,
+          "id": 1027,
           "translations": {
             "en": "Pho",
             "vi": "Phở",
@@ -76,7 +76,7 @@
       "name": "Common Phrases",
       "items": [
         {
-          "id": 8,
+          "id": 1038,
           "translations": {
             "en": "Menu",
             "vi": "Thực đơn",
@@ -84,7 +84,7 @@
           }
         },
         {
-          "id": 9,
+          "id": 1039,
           "translations": {
             "en": "Bill",
             "vi": "Hóa đơn",
@@ -92,7 +92,7 @@
           }
         },
         {
-          "id": 10,
+          "id": 10110,
           "translations": {
             "en": "Delicious",
             "vi": "Ngon",
@@ -103,4 +103,5 @@
     }
   ]
 }
+
 
